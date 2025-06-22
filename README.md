@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub
 
-<!--
-**francis-belen/francis-belen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a passionate software and web developer who has been building personal projects since the early 2010s. Most of my work has been private, offline, or self-hosted — and only recently have I begun migrating parts of it here to GitHub.
 
-Here are some ideas to get you started:
+### 🔐 About My Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All repositories are **private** by default, reflecting long-term side projects I've been refining since before 2020. If you're interested in seeing or collaborating on any of them, feel free to reach out — I'm happy to share on request.
+
+### 🛠️ Tech Stack & Interests
+
+- **Software Development**: Python, Java, Bash, SQL, PostgreSQL (on Linux systems)
+- **Web Development**: PHP, HTML, CSS, JavaScript  
+- **Other Interests**: Automation, backend systems, data workflows
+
+### 🤝 Let's Connect
+
+I'm always open to feedback, ideas, or collaboration.  
+If you'd like to learn more about a specific project or share your thoughts — just drop a message.
+
+---
+
+> _“Build quietly. Let the work speak.”_
