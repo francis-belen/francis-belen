@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub
 
-Hi, I'm a passionate software and web developer who has been building and maintaining personal projects since the early 2010s. Most of my work has remained private — developed offline or self-hosted — and only recently have I begun migrating parts of it to GitHub.
+Hi, I'm a passionate software and web developer who has been building and maintaining personal projects since 2010. Most of my work has remained private — developed offline or self-hosted — and only recently have I begun migrating parts of it to GitHub.
 
 ---
 
