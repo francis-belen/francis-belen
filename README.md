@@ -24,9 +24,10 @@ All repositories here are **private by default**, reflecting long-running system
   Custom NAS setup using **TrueNAS SCALE** for internal data archiving, SMB/NFS shares, snapshot policies, and offsite replication.
 
 - 💡 **Software & Web Development**  
-  - Backend tools using **Python**, **Java**, **Bash**, **SQL**, **PostgreSQL** (on Linux systems) 
-  - Web apps and interfaces using **PHP**, **HTML**, **CSS**, and **JavaScript**  
-  - Infrastructure scripting and CLI automation  
+  - Backend tools using **Python**, **Java**, **Bash**, **SQL**, **PostgreSQL** (on Linux systems)  
+  - REST APIs using **FastAPI**  
+  - Web apps and interfaces using **PHP**, **React**, **HTML**, **CSS**, and **JavaScript**  
+  - Infrastructure scripting and CLI automation
 
 ---
 
@@ -44,7 +45,9 @@ All repositories here are **private by default**, reflecting long-running system
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
